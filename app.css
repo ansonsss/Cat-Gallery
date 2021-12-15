@@ -1,0 +1,33 @@
+body{
+    background-color: #f5d9d5;
+    font-family: 'Nunito','sans-serif','Arial'
+}
+
+#mainnavbar .navbar-brand{
+    color: #EA1C2C;
+}
+
+#mainnavbar{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#navbarsExample01 .nav-link:hover{
+    color: #EA1C2C;
+}
+
+#navbarsExample01 .nav-link{
+    color: white;
+}
+
+#title{
+    color: white;
+}
+
+.content{
+    color: #f498b8;
+}
+
+.gap{
+    margin-top: 50px;
+}
